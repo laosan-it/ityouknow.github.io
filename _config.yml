@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: laosan-it/laosan-it.github.io
 github_url: https://github.com/laosan-it
 url: http://www.laosan.com
-enforce_ssl: laosan.com
+#enforce_ssl: laosan.com
 
 ## Gem
 plugins:
